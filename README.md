@@ -10,3 +10,16 @@ Fun Facts ! about me:
 🎬 I’m a CINEPHILE who regularly visits local cinematheques. (Recently, I’ve been enjoying classic Japanese films at home with a projector!)  
 🎶 I’m also an OPERA enthusiast, especially fond of Maria Callas. My favorite opera is "Rigoletto", and my favorite aria is "Casta Diva". I used to sing in a choir until last year.  
 🧘‍♀️ I practice YOGA daily and am passionate about mindfulness and maintaining a healthy lifestyle.
+
+## 🛠 Tech Stack
+
+**Languages:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Environments:**  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Cloud Platforms:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
